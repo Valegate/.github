@@ -1,6 +1,6 @@
 # Valegate Minecraft Server
 
-![Valegate Logo]([https://i.imgur.com/wqJX6ot.png])
+![Valegate Logo](https://imgur.com/wqJX6ot.png)
 
 Welcome to the Valegate Minecraft Server's GitHub profile! We're thrilled to share our project with you. Valegate is a vibrant and engaging Minecraft server that brings together a fantastic community of players. 
 
