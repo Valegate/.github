@@ -15,7 +15,7 @@ We’re excited to share the projects that power our Minecraft server and the co
 Beyond Horizons is more than just a Minecraft server - it’s a living world built around creativity, collaboration, and adventure.  
 From custom mechanics to carefully designed events, everything we create is focused on delivering a memorable and rewarding experience for our players.
 
-Whether you’re a builder, explorer, competitor, or developer, Valegate is a place where your ideas can grow.
+Whether you’re a builder, explorer, competitor, or developer, Beyond Horizons is a place where your ideas can grow.
 
 ---
 
@@ -37,7 +37,7 @@ Whether you’re a builder, explorer, competitor, or developer, Valegate is a pl
 
 ## 🛠️ Development
 
-Valegate runs on a mix of:
+Beyond Horizons runs on a mix of:
 - **Custom-built plugins** developed in-house  
 - **Well-known community plugins**, carefully configured to fit our vision
 
