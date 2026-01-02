@@ -3,7 +3,7 @@
 # ✨ Beyond Horizons ✨  
 **A Community-Driven Minecraft Experience**
 
-Welcome to the official **Valegate** GitHub profile!  
+Welcome to the official **Beyond Horizons** GitHub profile!  
 We’re excited to share the projects that power our Minecraft server and the community behind it.
 
 </div>
