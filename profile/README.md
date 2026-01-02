@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Valegate ✨  
+# ✨ Beyond Horizons ✨  
 **A Community-Driven Minecraft Experience**
 
 Welcome to the official **Valegate** GitHub profile!  
@@ -10,9 +10,9 @@ We’re excited to share the projects that power our Minecraft server and the co
 
 ---
 
-## 🚀 About Valegate
+## 🚀 About Beyond Horizons
 
-Valegate is more than just a Minecraft server - it’s a living world built around creativity, collaboration, and adventure.  
+Beyond Horizons is more than just a Minecraft server - it’s a living world built around creativity, collaboration, and adventure.  
 From custom mechanics to carefully designed events, everything we create is focused on delivering a memorable and rewarding experience for our players.
 
 Whether you’re a builder, explorer, competitor, or developer, Valegate is a place where your ideas can grow.
@@ -63,6 +63,6 @@ If you’re passionate about Minecraft development and want to contribute, you�
 
 <div align="center">
 
-✨ **Thanks for stopping by - welcome to Valegate!** ✨  
+✨ **Thanks for stopping by - welcome to Beyond Horizons!** ✨  
 
 </div>
